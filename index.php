@@ -1,6 +1,4 @@
-<?php
-# Включаем показ ошибок
-ini_set('display_errors', 1);
+app > Http > controllers    Наш путь по папкам
 
-# Подключаем bootstrap файл
-require_once 'application/bootstrap.php';
+
+routerc . view> web.php    создаем здесь Route::get('/home','HomeController')
