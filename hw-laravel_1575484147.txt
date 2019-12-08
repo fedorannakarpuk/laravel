@@ -1,0 +1,17 @@
+﻿1. Дока https://laravel.com/docs/
+2. Установить Laravel https://laravel.com/docs/6.x#installing-laravel
+выполнять в консоле
+- composer create-project --prefer-dist laravel/laravel blog
+
+3. Перейти в папку с проектом - cd blog
+4. Запустить проект - php artisan serve
+5. Перейти в урл http://127.0.0.1:8000/
+ 
+6. Контроллеры находятся в app/Http/Controllers
+7. Роуты находятся в routes/web.php
+8. Виды находятся в resources/views
+9. Модели находятся в app
+.env поставить свою БД
+
+Создать контроллер php artisan make:controller NameController
+Создать модель php artisan make:model Name

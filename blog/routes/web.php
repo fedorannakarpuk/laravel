@@ -17,6 +17,7 @@ Route::get('/', function () {
 
 Route::get('/home', 'HomeController@index');//  @- это говорит сразу к какому методу обращаться, в нашем случае в контроллере это индекс(наш метод)/ Прописываем все пути на нашем сайте
 Route::get('/users', 'UsersController@index');//  
+Route::get('/posts', 'PostController@show');//
 
  
 // get - метод, по которому передаем данные  (GET   ИЛИ POST)
