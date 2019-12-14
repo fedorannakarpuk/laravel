@@ -29,7 +29,7 @@ Route::get('/name', function () {
 
 
 
-//Route::get('/name', 'NameController@index');  //  @- это говорит сразу к какому методу обращаться,
+Route::get('/blog', 'NameController@index');  //  @- это говорит сразу к какому методу обращаться,
 //// в нашем случае в контроллере это индекс(наш метод)/ Прописываем все пути на нашем сайте
 //
-//Route::get('/name', 'NameController@show');
+

@@ -12,7 +12,7 @@
     <!-- Styles -->
     <style>
         html, body {
-            background-color: #ffdcbb;
+            background-color: #80bdc1;
             color: darkred;
             font-family: 'Nunito', sans-serif;
             font-weight: 200;
@@ -85,8 +85,8 @@
         </div>
 
         <div class="links">
-            <a href="https://laravel.com/docs">Docs</a>
-            <a href="https://laracasts.com">Laracasts</a>
+            <a href="https://laravel.com/docs"> {{ $content}}</a>
+            <a href="https://laracasts.com">{{$title }}</a>
 {{--            Т.к. сервак так и не загрузился, то http://laravel/new-blog/blog/public/blog прописываю ссылку вручную--}}
             <a href="/blog">Our BLOG ))</a>
 {{--            <a href="http://laravel/new-blog/blog/public/blog">Our BLOG ))</a>--}}
@@ -94,6 +94,26 @@
         </div>
     </div>
 </div>
+
+
+
+
+{{--<div>--}}
+{{--    @foreach ($users as $user)--}}
+{{--        <li>  {{ $user}}</li>--}}
+{{--    @endforeach--}}
+{{--</div>--}}
+
+
+
+{{--<div>--}}
+
+{{--    @foreach($posts as $post)--}}
+{{--        <h1> {{ $post->title  }}  </h1>--}}
+{{--        <p> {{  $post->content }}  </p>--}}
+{{--    @endforeach--}}
+
+{{--</div>--}}
 
 
 

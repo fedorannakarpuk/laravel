@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0dfb83ea-5975-4fee-8965-6fa000e92313" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/new-blog/blog/resources/views/new-front/name.blade.php" afterDir="false" />
+    <list default="true" id="0dfb83ea-5975-4fee-8965-6fa000e92313" name="Default Changelist" comment="Выводим Hello world !!! в голой вьюхе, без классов">
+      <change afterPath="$PROJECT_DIR$/new-blog/blog/resources/views/new-front/name1.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/resources/views/front/users.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/blog/resources/views/front/users.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-blog/blog/resources/views/new-front/name.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/new-blog/blog/resources/views/new-front/name.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new-blog/blog/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/new-blog/blog/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,7 +166,7 @@
       <updated>1575817898043</updated>
       <workItem from="1575817904736" duration="6175000" />
       <workItem from="1576337779033" duration="347000" />
-      <workItem from="1576338128563" duration="5990000" />
+      <workItem from="1576338128563" duration="7600000" />
     </task>
     <task id="LOCAL-00001" summary="Поставила свою базу данных">
       <created>1576356744231</created>
@@ -175,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576356744231</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Выводим Hello world !!! в голой вьюхе, без классов">
+      <created>1576359255557</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576359255557</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,25 +190,30 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Поставила свою базу данных" />
-    <option name="LAST_COMMIT_MESSAGE" value="Поставила свою базу данных" />
+    <MESSAGE value="Выводим Hello world !!! в голой вьюхе, без классов" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выводим Hello world !!! в голой вьюхе, без классов" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="209" width="816" height="775" key="#Intentions" timestamp="1576359689367">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="0" y="209" width="816" height="775" key="#Intentions/0.0.1280.984@0.0.1280.984" timestamp="1576359689367" />
     <state x="371" y="480" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1576358289866">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="371" y="480" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1280.984@0.0.1280.984" timestamp="1576358289866" />
-    <state x="0" y="179" key="CommitChangelistDialog2" timestamp="1576356742833">
+    <state x="0" y="179" key="CommitChangelistDialog2" timestamp="1576359667816">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="0" y="179" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1576356742833" />
+    <state x="0" y="179" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1576359667816" />
     <state x="420" y="249" key="FileChooserDialogImpl" timestamp="1576338124162">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="420" y="249" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1576338124162" />
-    <state x="233" y="431" key="Vcs.Push.Dialog.v2" timestamp="1576356751566">
+    <state x="233" y="431" key="Vcs.Push.Dialog.v2" timestamp="1576359258467">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="233" y="431" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1576356751566" />
+    <state x="233" y="431" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1576359258467" />
     <state x="347" y="318" key="com.intellij.ide.util.TipDialog" timestamp="1576338111392">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
