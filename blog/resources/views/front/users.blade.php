@@ -5,14 +5,14 @@
     <title>Users</title>
 </head>
 <body>
- 
-   
-    <div>
-        @foreach ($users as $user) 
+
+
+<div>
+    @foreach ($users as $user)
         <li>  {{ $user}}</li>
-        @endforeach 
-    </div>
-     
-       
+    @endforeach
+</div>
+
+
 </body>
 </html>
