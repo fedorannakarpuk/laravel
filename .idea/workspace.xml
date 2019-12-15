@@ -164,7 +164,7 @@
       <workItem from="1575817904736" duration="6175000" />
       <workItem from="1576337779033" duration="347000" />
       <workItem from="1576338128563" duration="10989000" />
-      <workItem from="1576410499072" duration="8380000" />
+      <workItem from="1576410499072" duration="8736000" />
     </task>
     <task id="LOCAL-00001" summary="Поставила свою базу данных">
       <created>1576356744231</created>
@@ -201,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576415868202</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Скачали верстку админки как на уроке для того, чтобы &quot;натянуть&quot; на php. Проверели в phpMyAdmin добавилась ли наша таблица.Все прошло успешно. Также мы ее экспортировали в локальную рабочую папку.">
+      <created>1576419648260</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1576419648260</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,7 +220,8 @@
     <MESSAGE value="Создали теперь новую вьюшку, и делаем ту же операцию с роутами, только теперь мы используем контролер" />
     <MESSAGE value="Попыдка вывести данные из Базы данных. Безуспешно." />
     <MESSAGE value="Пересоздали модель и создали миграцию. А также были изменения в предыдущих фрагментах кода. Переходы по ссылкам." />
-    <option name="LAST_COMMIT_MESSAGE" value="Пересоздали модель и создали миграцию. А также были изменения в предыдущих фрагментах кода. Переходы по ссылкам." />
+    <MESSAGE value="Скачали верстку админки как на уроке для того, чтобы &quot;натянуть&quot; на php. Проверели в phpMyAdmin добавилась ли наша таблица.Все прошло успешно. Также мы ее экспортировали в локальную рабочую папку." />
+    <option name="LAST_COMMIT_MESSAGE" value="Скачали верстку админки как на уроке для того, чтобы &quot;натянуть&quot; на php. Проверели в phpMyAdmin добавилась ли наша таблица.Все прошло успешно. Также мы ее экспортировали в локальную рабочую папку." />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="209" width="816" height="775" key="#Intentions" timestamp="1576359689367">
@@ -232,18 +240,18 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="371" y="480" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1280.984@0.0.1280.984" timestamp="1576358289866" />
-    <state x="9" y="137" key="CommitChangelistDialog2" timestamp="1576415866592">
+    <state x="9" y="137" key="CommitChangelistDialog2" timestamp="1576419642707">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="9" y="137" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1576415866592" />
+    <state x="9" y="137" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1576419642707" />
     <state x="420" y="249" key="FileChooserDialogImpl" timestamp="1576338124162">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="420" y="249" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1576338124162" />
-    <state x="233" y="431" key="Vcs.Push.Dialog.v2" timestamp="1576415872722">
+    <state x="233" y="431" key="Vcs.Push.Dialog.v2" timestamp="1576419654043">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="233" y="431" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1576415872722" />
+    <state x="233" y="431" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1576419654043" />
     <state x="347" y="318" key="com.intellij.ide.util.TipDialog" timestamp="1576410500399">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
