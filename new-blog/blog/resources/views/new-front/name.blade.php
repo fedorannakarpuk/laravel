@@ -88,8 +88,8 @@
             <a href="https://laravel.com/docs">Docs</a>
             <a href="https://laracasts.com">Laracasts</a>
 {{--            Т.к. сервак так и не загрузился, то http://laravel/new-blog/blog/public/blog прописываю ссылку вручную--}}
+{{--            <a href="/blog">Our BLOG ))</a>--}}
             <a href="/blog">Our BLOG ))</a>
-{{--            <a href="http://laravel/new-blog/blog/public/blog">Our BLOG ))</a>--}}
 
         </div>
     </div>

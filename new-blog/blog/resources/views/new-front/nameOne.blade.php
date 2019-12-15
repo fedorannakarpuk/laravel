@@ -85,11 +85,12 @@
         </div>
 
         <div class="links">
-{{--            <a href="https://laravel.com/docs"> {{ $content}}</a>--}}
-{{--            <a href="https://laracasts.com">{{$title }}</a>--}}
+            <a href="/bla"> {{ $content}}  => "Наш Bla{{$valerchik}} "</a> <br><br>
+            <a href="/name">{{$title }} => "return to the link " /name ""</a>
 {{--            Т.к. сервак так и не загрузился, то http://laravel/new-blog/blog/public/blog прописываю ссылку вручную--}}
+            <br><br>
+            <a href="/name">return to the link " /name "</a>
 
-{{--            <a href="http://laravel/new-blog/blog/public/blog">Our BLOG ))</a>--}}
 
         </div>
     </div>
@@ -98,13 +99,13 @@
 
 
 
-<div>
+{{--<div>--}}
 {{--  если закоментировать, то выкидывает как положено по ссылке.--}}
-    @foreach ($users as $user)
+{{--    @foreach ($users as $user)--}}
 
-        <li>  {{ $user->id}}</li>
-    @endforeach
-</div>
+{{--        <li>  {{ $user->id}}</li>--}}
+{{--    @endforeach--}}
+{{--</div>--}}
 
 
 

@@ -12,7 +12,7 @@ class NameController extends Controller
     public function index(){
         $title = "Ссылка № 2";
         $content = "Ссылка № 1";
-        return view ('new-front.name1', compact('title','content'));   // другой способ записи
+        return view ('new-front.nameOne', compact('title','content'));   // другой способ записи
     }
 
 
@@ -21,11 +21,11 @@ class NameController extends Controller
 //        return view ('new-front.name1', compact('usersOur'));
 
 
-        $users = DB::select('select * from name_info ');
-
-        return view('new-front.name1', 'users');
-
-
+//        $users = DB::select('select * from name_info ');
+//
+//        return view('new-front.nameOne', 'users');
+           $valerchik = "Не понятно, но факт !!!";
+        return view ('new-front.nameOne', compact('valerchik'));
     }
 
 
