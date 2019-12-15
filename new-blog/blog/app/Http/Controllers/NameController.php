@@ -24,8 +24,9 @@ class NameController extends Controller
 //        $users = DB::select('select * from name_info ');
 //
 //        return view('new-front.nameOne', 'users');
-           $valerchik = "Не понятно, но факт !!!";
-        return view ('new-front.nameOne', compact('valerchik'));
+//           $valerchik = "Не понятно, но факт !!!";
+//        return view ('new-front.nameOne', compact('valerchik'));
+        return view ('welcome');
     }
 
 

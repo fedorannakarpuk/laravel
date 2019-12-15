@@ -19,17 +19,15 @@
 
 //
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', 'NameController@show');
 
-Route::get('/name', function () {
-    return view('new-front.name');
-});
-
-
-
-Route::get('/blog', 'NameController@index');  //  @- это говорит сразу к какому методу обращаться,
-//// в нашем случае в контроллере это индекс(наш метод)/ Прописываем все пути на нашем сайте
+//Route::get('/name', function () {
+//    return view('new-front.name');
+//});
 //
-Route::get('/bla', 'NameController@show');
+//
+//
+//Route::get('/blog', 'NameController@index');  //  @- это говорит сразу к какому методу обращаться,
+////// в нашем случае в контроллере это индекс(наш метод)/ Прописываем все пути на нашем сайте
+////
+//Route::get('/bla', 'NameController@show');
